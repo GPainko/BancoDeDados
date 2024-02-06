@@ -9,7 +9,7 @@ import os
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': '81107984',
+    'password': 'admin',
     'database': 'monitoramento'
 }
 
