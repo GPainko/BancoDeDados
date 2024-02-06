@@ -6,7 +6,7 @@ import mysql.connector
 # Configure a conexão do banco de dados aqui
 db_config = {
     'user': 'root',
-    'password': '81107984',
+    'password': 'admin',
     'host': 'localhost',
     'database': 'monitoramento'
 }
