@@ -35,7 +35,7 @@ def adicionar_cliente():
         conn = mysql.connector.connect(
             host="localhost",       # Ou o IP do seu servidor MySQL
             user="root",     # Substitua com o seu usuário do MySQL
-            password="81107984",   # Substitua com a sua senha do MySQL
+            password="admin",   # Substitua com a sua senha do MySQL
             database="monitoramento"   # Substitua com o nome do banco de dados no MySQL
         )
         cursor = conn.cursor()
