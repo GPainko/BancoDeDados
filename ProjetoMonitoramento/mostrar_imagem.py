@@ -6,7 +6,7 @@ import io
 
 config = {
     'user': 'root',
-    'password': '81107984',
+    'password': 'admin',
     'host': 'localhost',
     'database': 'monitoramento',
     'raise_on_warnings': True,
